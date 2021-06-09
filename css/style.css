@@ -27,7 +27,7 @@ header .container{
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family: 'Staatliches', cursive;
+    font-family: 'Staatliches', sans-serif;
     font-size: 40px;
 }
 
@@ -42,6 +42,7 @@ header nav a:hover{
 }
 
 /* Filme principal*/
+
 .filme-principal{
     font-size: 16px;
     background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/Your_Name.png');
@@ -53,8 +54,6 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    
-
 }
 
 .filme-principal .descricao{
