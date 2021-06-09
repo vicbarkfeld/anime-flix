@@ -45,7 +45,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/Your_Name.png');
+    background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('https://blogs.uai.com.br/contaumahistoria/wp-content/uploads/sites/13/2018/11/destaque-443112-your-name_1-1024x478.jpg');
 
     height: 400px;
     background-size:cover;
